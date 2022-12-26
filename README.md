@@ -10,4 +10,4 @@ Please run to install all dependencies
 
 ## This example is deployed here:
 
-Open [https://63a8f533754f3f2bdafd9ed5--web3modal-v2-react.netlify.app/](Web3Modal-v2-React) to view it in the browser.
+Open [Web3Modal-v2-React](https://63a8f533754f3f2bdafd9ed5--web3modal-v2-react.netlify.app/) to view it in the browser.
