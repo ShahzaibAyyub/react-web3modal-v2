@@ -4,9 +4,10 @@ This is an example project to implement web3modal v2 on React.js
 
 ## How to run
 
-Please run to install all dependencies
+To run, first install all dependencies by the following commands:
 
 ### `yarn install / npm install`
+
 
 ## This example is deployed here:
 
